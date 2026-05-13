@@ -10,8 +10,8 @@
 
 | 项目 | 链接 |
 | -- | -- |
-| 在线 Demo | _部署后填入_ |
-| 源代码 | _仓库地址_ |
+| 在线 Demo | https://atoms-demo-j9hf5ng6a-dndn.vercel.app/ |
+| 源代码 | https://github.com/wsxz1/Atoms-Demo |
 
 ---
 
